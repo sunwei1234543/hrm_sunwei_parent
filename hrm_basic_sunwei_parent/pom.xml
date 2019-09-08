@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>hrm_sunwei_parent</artifactId>
+        <groupId>com.sunwei</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>hrm_basic_sunwei_parent</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>hrm_basic_sunwei_util</module>
+        <module>hrm_basic_fastdfs_client</module>
+        <module>hrm_basic_fastdfs_common</module>
+        <module>hrm_basic_fastdfs_service_9003</module>
+        <module>hrm_basic_es_client</module>
+        <module>hrm_basic_es_common</module>
+        <module>hrm_basic_es_service_9004</module>
+        <module>basic_redis_common</module>
+        <module>basic_redis_client</module>
+        <module>basic_redis_servier_9005</module>
+    </modules>
+
+
+</project>

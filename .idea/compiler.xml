@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic_redis_client" />
+        <module name="basic_redis_common" />
+        <module name="basic_redis_servier_9005" />
+        <module name="hrm_basic_es_client" />
+        <module name="hrm_basic_es_common" />
+        <module name="hrm_basic_es_service_9004" />
+        <module name="hrm_basic_fastdfs_client" />
+        <module name="hrm_basic_fastdfs_common" />
+        <module name="hrm_basic_fastdfs_service_9003" />
+        <module name="hrm_basic_sunwei_util" />
+        <module name="hrm_config_service_sunwei_8848" />
+        <module name="hrm_course_client" />
+        <module name="hrm_course_common" />
+        <module name="hrm_course_service_9002" />
+        <module name="hrm_eureka_sunwei_7001" />
+        <module name="hrm_management_client" />
+        <module name="hrm_management_common" />
+        <module name="hrm_management_service_9001" />
+        <module name="hrm_mybatiseplus_sunwei_gen" />
+        <module name="hrm_zuul_sunwei_9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>

@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/impl/CourseServiceImpl.java" line="42" mnemonic="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="292c96c2-ce47-48cf-86f2-953567b971f8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_management_sunwei_parent/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_sunwei_parent/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_mybatiseplus_sunwei_parent/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_supoort_sunwei_parent/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_mybatiseplus_sunwei_gen/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_sunwei_util/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_eureka_sunwei_7001/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_config_service_sunwei_8848/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_common/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_client/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_service_9001/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_client/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_client/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_common/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_service_9003/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_common/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_common/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/web/controller/CourseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/ICourseService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/src/main/java/com/sunwei/hrm/config/DocumentationConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/src/main/java/com/sunwei/hrm/client/EsCourseClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common/src/main/java/com/sunwei/hrm/domain/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="167" column="5" lean-forward="true" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/web/controller/EsCourseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1117">
+              <caret line="97" column="26" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/impl/CourseServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="39" column="54" selection-start-line="27" selection-end-line="39" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\</find>
+      <find>OutputDir</find>
+      <find>hrm_course_service</find>
+      <find>courseType</find>
+      <find>startTime</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\\</replace>
+      <replace>hrm_course_service_9002</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_service_9003/src/main/resources/fdfs_client.conf" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/mapper/CourseTypeMapper.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_common/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/Es9004Application.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/com/sunwei/hrm/we/controller/EsCourseController.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/controller/EsCourseController.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/Course9002Application.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/src/main/java/com/sunwei/hrm/client/query/EsCourseQuery.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/repository/CourseRepository.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/service/impl/EsCourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/service/IEsCourseService.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/com/sunwei/hrm/mapper/CourseTypeMapper.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/ICourseService.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/com/sunwei/hrm/mapper/CourseMapper.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/mapper/CourseMapper.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_common/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/src/main/java/com/sunwei/hrm/config/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/Redis9005Applicatio.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client/src/main/java/com.sunwei.hrm/RedisClient.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client/src/main/java/com.sunwei.hrm/RedisClientFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/util.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/util/util.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/util/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/resources/redis.properties" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/cache/CourseTyepCache.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common/src/main/java/com/sunwei/hrm/domain/CourseType.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/ICourseTypeService.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/test/java/com/sunwei/hrm.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/test/java/com/sunwei/hrm/hrm.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/test/java/com/sunwei/hrm/CourseTypeTest.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/impl/CourseTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/web/controller/CourseTypeController.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/util/UserInfoHolder.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/impl/CourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/src/main/java/com/sunwei/hrm/client/EsCourseClientHystrixFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/src/main/java/com/sunwei/hrm/client/EsCourseClient.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/web/controller/CourseController.java" />
+        <option value="$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/web/controller/EsCourseController.java" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common/src/main/java/com/sunwei/hrm/domain/Course.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1445" />
+    <option name="height" value="931" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_service_9004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_service_9004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_service_9004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_service_9004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_service_9004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_service_9004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_basic_es_service_9004" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_service_9002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_service_9002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_service_9002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_service_9002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_service_9002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_service_9002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_course_service_9002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_zuul_sunwei_9527" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_zuul_sunwei_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_zuul_sunwei_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_zuul_sunwei_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_zuul_sunwei_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_zuul_sunwei_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm_sunwei_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_supoort_sunwei_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm_zuul_sunwei_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567912264218" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/test/java/com/sunwei" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hrm_web_parent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.59192824" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sunwei.hrm.cache" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_course_sunwei_parent\hrm_course_service_9002\src\main\java\com\sunwei\hrm" />
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_basic_sunwei_parent\basic_redis_common\src\main\java" />
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_basic_sunwei_parent\hrm_basic_es_client\src\main\java\com\sunwei\hrm\client" />
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_basic_sunwei_parent\hrm_basic_es_service_9004\src\main\java" />
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_basic_sunwei_parent\hrm_basic_es_common\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sunwei.hrm.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_basic_sunwei_parent\basic_redis_client\src\main\java" />
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_basic_sunwei_parent\hrm_basic_sunwei_util\src\main\java" />
+      <recent name="F:\workspace\ideaproject\hrm_sunwei_parent\hrm_basic_sunwei_parent\hrm_basic_sunwei_util\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.16299085" />
+  </component>
+  <component name="RunManager" selected="JUnit.CourseTypeTest.testQueryTreeData">
+    <configuration name="GenteratorCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenteratorCode" />
+      <module name="hrm_mybatiseplus_sunwei_gen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hrm_course_service_9002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunwei.hrm" />
+      <option name="MAIN_CLASS_NAME" value="com.sunwei.hrm.CourseTypeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseTypeTest.testQueryTreeData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hrm_course_service_9002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sunwei.hrm" />
+      <option name="MAIN_CLASS_NAME" value="com.sunwei.hrm.CourseTypeTest" />
+      <option name="METHOD_NAME" value="testQueryTreeData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Course9002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hrm_course_service_9002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunwei.hrm.Course9002Application" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Es9004Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hrm_basic_es_service_9004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunwei.hrm.Es9004Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fastdfds9003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hrm_basic_fastdfs_service_9003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunwei.hrm.Fastdfds9003Application" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Manage9001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hrm_management_service_9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunwei.hrm.Manage9001Application" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis9005Applicatio" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="basic_redis_servier_9005" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunwei.hrm.Redis9005Applicatio" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hrm_eureka_sunwei_7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunwei.hrm.eureka7001Application" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zuul9527Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hrm_zuul_sunwei_9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunwei.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunwei.hrm.zuul9527Application" />
+      <option name="VM_PARAMETERS" value="-Xmx256m -Xms128m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GenteratorCode" />
+      <item itemvalue="JUnit.CourseTypeTest" />
+      <item itemvalue="JUnit.CourseTypeTest.testQueryTreeData" />
+      <item itemvalue="Spring Boot.eureka7001Application" />
+      <item itemvalue="Spring Boot.zuul9527Application" />
+      <item itemvalue="Spring Boot.Manage9001Application" />
+      <item itemvalue="Spring Boot.Course9002Application" />
+      <item itemvalue="Spring Boot.Fastdfds9003Application" />
+      <item itemvalue="Spring Boot.Es9004Application" />
+      <item itemvalue="Spring Boot.Redis9005Applicatio" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CourseTypeTest.testQueryTreeData" />
+        <item itemvalue="JUnit.CourseTypeTest" />
+        <item itemvalue="Application.GenteratorCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="292c96c2-ce47-48cf-86f2-953567b971f8" name="Default Changelist" comment="" />
+      <created>1567830048738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567830048738</updated>
+      <workItem from="1567830052527" duration="11909000" />
+      <workItem from="1567843511035" duration="159000" />
+      <workItem from="1567843745929" duration="31512000" />
+      <workItem from="1567904859605" duration="6158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CourseTypeTest - 2019.09.07 at 23h 27m 04s.xml">
+      <configuration name="CourseTypeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CourseTypeTest_testQueryTreeData - 2019.09.07 at 23h 30m 03s.xml">
+      <configuration name="CourseTypeTest.testQueryTreeData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CourseTypeTest_testQueryTreeData - 2019.09.07 at 23h 33m 52s.xml">
+      <configuration name="CourseTypeTest.testQueryTreeData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CourseTypeTest_testQueryTreeData - 2019.09.07 at 23h 38m 52s.xml">
+      <configuration name="CourseTypeTest.testQueryTreeData" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49738000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24707758" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24705882" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.054320987" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.36898395" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.37967914" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.4909091" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12900764" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6181818" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.38264582" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.18367347" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/repository/CourseRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/service/IEsCourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/com/sunwei/hrm/mapper/CourseTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/com/sunwei/hrm/mapper/CourseMarketMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_service_9001/src/main/java/com/sunwei/hrm/web/controller/TenantTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-807">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/mapper/CourseTypeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_service_9001/src/main/java/com/sunwei/hrm/web/controller/TenantController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/com/sunwei/hrm/mapper/CourseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/util/util.java" />
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/Redis9005Applicatio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/util/RedisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="86" selection-start-line="86" selection-end-line="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005/src/main/java/com/sunwei/hrm/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/cache/CourseTyepCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common/src/main/java/com/sunwei/hrm/domain/CourseType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="e#2586#2587#0" expanded="true" />
+            <element signature="e#2615#2616#0" expanded="true" />
+            <element signature="e#2663#2664#0" expanded="true" />
+            <element signature="e#2699#2700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.1.RELEASE/spring-cloud-netflix-eureka-client-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="47" column="98" selection-start-line="47" selection-start-column="98" selection-end-line="47" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/test/java/com/sunwei/hrm/CourseTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/ICourseTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/util/UserInfoHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_common/src/main/java/com/sunwei/hrm/domain/Tenant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_service_9001/src/main/java/com/sunwei/hrm/web/controller/SystemdictionaryitemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common/src/main/java/com/sunwei/hrm/domain/CourseDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/impl/CourseTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="145" column="54" selection-start-line="145" selection-start-column="54" selection-end-line="145" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/valves/ErrorReportValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client/src/main/java/com.sunwei.hrm/RedisClientFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client/src/main/java/com.sunwei.hrm/RedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/web/controller/CourseTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="85" selection-start-line="85" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2463#2464#0" expanded="true" />
+            <element signature="e#2521#2522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/mapper/CourseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/service/impl/EsCourseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/src/main/java/com/sunwei/hrm/client/doc/EsCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/src/main/java/com/sunwei/hrm/client/EsCourseClientHystrixFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/Es9004Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/Course9002Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/src/main/java/com/sunwei/hrm/config/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/java/com/sunwei/hrm/web/controller/EsCourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1117">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/web/controller/CourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/ICourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/java/com/sunwei/hrm/service/impl/CourseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client/src/main/java/com/sunwei/hrm/client/EsCourseClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="39" column="54" selection-start-line="27" selection-end-line="39" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common/src/main/java/com/sunwei/hrm/domain/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="167" column="5" lean-forward="true" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.59192824" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hrm_mybatiseplus_sunwei_gen</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.59192824" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

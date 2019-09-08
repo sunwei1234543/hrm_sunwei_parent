@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/basic_redis_servier_9005" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_es_service_9004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_fastdfs_service_9003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_basic_sunwei_parent/hrm_basic_sunwei_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_course_sunwei_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_course_sunwei_parent/hrm_course_service_9002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_management_sunwei_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_service_9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_mybatiseplus_sunwei_gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_config_service_sunwei_8848" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_eureka_sunwei_7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527" charset="UTF-8" />
+  </component>
+</project>
