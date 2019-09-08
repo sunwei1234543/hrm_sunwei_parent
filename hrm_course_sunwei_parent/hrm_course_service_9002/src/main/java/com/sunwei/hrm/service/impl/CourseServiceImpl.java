@@ -3,8 +3,7 @@ package com.sunwei.hrm.service.impl;
 
 import com.baomidou.mybatisplus.plugins.Page;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
-import com.sunwei.hrm.client.EsCourseClient;
-import com.sunwei.hrm.client.doc.EsCourse;
+
 import com.sunwei.hrm.domain.Course;
 import com.sunwei.hrm.mapper.CourseDetailMapper;
 import com.sunwei.hrm.mapper.CourseMapper;
@@ -31,8 +30,8 @@ import java.util.List;
 public class CourseServiceImpl extends ServiceImpl<CourseMapper, Course> implements ICourseService {
     @Autowired
     private CourseMapper courseMapper;
-    @Autowired
-    private EsCourseClient esCourseClient;
+    /*@Autowired
+    private EsCourseClient esCourseClient;*/
     @Autowired
     private CourseDetailMapper courseDetailMapper;
     @Override
@@ -42,7 +41,7 @@ public class CourseServiceImpl extends ServiceImpl<CourseMapper, Course> impleme
         //判断状态 还要删除索引库
         Course course = courseMapper.selectById(id);
         if(course.getStatus()==1){
-            esCourseClient.delete(Integer.valueOf(id.toString()));
+            //esCourseClient.delete(Integer.valueOf(id.toString()));
             return true;
         }
         return true;
@@ -55,7 +54,7 @@ public class CourseServiceImpl extends ServiceImpl<CourseMapper, Course> impleme
         //判断状态 还要修改索引库
         Course course = courseMapper.selectById(entity.getId());
         if(course.getStatus()==1){
-            esCourseClient.save(course2EsCourse(entity));
+            //esCourseClient.save(course2EsCourse(entity));
             return true;
         }
         return true;
@@ -72,15 +71,15 @@ public class CourseServiceImpl extends ServiceImpl<CourseMapper, Course> impleme
     }
 
 
-    private List<EsCourse> courseList2EsCourse(List<Course> courseList) {
+   /* private List<EsCourse> courseList2EsCourse(List<Course> courseList) {
         List<EsCourse> result = new ArrayList<>();
         for (Course course : courseList) {
             result.add(course2EsCourse(course));
         }
         return result;
-    }
+    }*/
 
-    // @TODO 不同服务,反3Fn设计冗余字段
+/*    // @TODO 不同服务,反3Fn设计冗余字段
 // @TODO 相同服务,关联查询
     private EsCourse course2EsCourse(Course course) {
         EsCourse  result = new EsCourse();
@@ -111,15 +110,15 @@ public class CourseServiceImpl extends ServiceImpl<CourseMapper, Course> impleme
         result.setPriceOld(null);
         result.setQq(null);
         return result;
-    }
+    }*/
 
     //课程上线
     @Override
     public void onLine(Long[] ids) {
         //在索引库批量添加数据
         List<Course> courses = courseMapper.selectBatchIds(Arrays.asList(ids));
-        List<EsCourse> esCourses = courseList2EsCourse(courses);
-        esCourseClient.batchSave(esCourses);
+       // List<EsCourse> esCourses = courseList2EsCourse(courses);
+        //esCourseClient.batchSave(esCourses);
         //批量修改状态
         //update t_course set status = 1,start_time=xxx where id in (1,2,3)
         courseMapper.batchOnline(Arrays.asList(ids));
@@ -130,8 +129,8 @@ public class CourseServiceImpl extends ServiceImpl<CourseMapper, Course> impleme
     public void offLine(Long[] ids) {
         //在索引库批量删除数据
         List<Course> courses = courseMapper.selectBatchIds(Arrays.asList(ids));
-        List<EsCourse> esCourses = courseList2EsCourse(courses);
-        esCourseClient.batchDel(esCourses);
+        //List<EsCourse> esCourses = courseList2EsCourse(courses);
+        //esCourseClient.batchDel(esCourses);
         //批量修改状态
         //update t_course set status = 1,start_time=xxx where id in (1,2,3)
         courseMapper.batchOffline(Arrays.asList(ids));

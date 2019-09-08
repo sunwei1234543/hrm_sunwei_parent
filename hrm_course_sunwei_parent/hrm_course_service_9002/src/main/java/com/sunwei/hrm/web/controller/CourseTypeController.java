@@ -1,11 +1,11 @@
 package com.sunwei.hrm.web.controller;
 
-import com.sunwei.hrm.service.ICourseTypeService;
+
 import com.sunwei.hrm.domain.CourseType;
 import com.sunwei.hrm.query.CourseTypeQuery;
+import com.sunwei.hrm.service.ICourseTypeService;
 import com.sunwei.hrm.util.AjaxResult;
 import com.sunwei.hrm.util.PageList;
-import com.baomidou.mybatisplus.plugins.Page;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

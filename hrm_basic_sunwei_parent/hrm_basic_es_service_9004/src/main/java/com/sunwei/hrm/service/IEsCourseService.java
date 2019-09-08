@@ -1,7 +1,8 @@
 package com.sunwei.hrm.service;
 
-import com.sunwei.hrm.client.doc.EsCourse;
-import com.sunwei.hrm.client.query.EsCourseQuery;
+
+import com.sunwei.hrm.doc.EsCourse;
+import com.sunwei.hrm.query.EsCourseQuery;
 import com.sunwei.hrm.util.PageList;
 
 import java.util.List;

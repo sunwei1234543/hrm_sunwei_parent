@@ -24,6 +24,6 @@ public class CourseTyepCache {
     //设置数据到redis
     public void setCourseTypes(List<CourseType> courseTypesDb) {
         String jsonStr = JSONArray.toJSONString(courseTypesDb);
-        redisClient.set(TYPETREEDATA_IN_REDIS,jsonStr);
+       redisClient.set(TYPETREEDATA_IN_REDIS,jsonStr);
     }
 }

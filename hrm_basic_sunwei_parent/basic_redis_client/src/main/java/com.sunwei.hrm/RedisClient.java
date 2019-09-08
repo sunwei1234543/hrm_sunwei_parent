@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@FeignClient(value = "HRM-REDIS",configuration = FeignClientsConfiguration.class,
+@FeignClient(value = "HRM-REDIS",
         fallbackFactory = RedisClientFallbackFactory.class )//服务提供者的名称
 @RequestMapping("/cache")
 public interface RedisClient {

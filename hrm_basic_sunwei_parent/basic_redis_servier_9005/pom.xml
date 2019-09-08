@@ -47,10 +47,10 @@
         </dependency>
 
         <!--配置中心支持-->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-config</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.springframework.cloud</groupId>-->
+            <!--<artifactId>spring-cloud-starter-config</artifactId>-->
+        <!--</dependency>-->
 
         <!--redis客户端-jedis-->
         <!-- https://mvnrepository.com/artifact/redis.clients/jedis -->

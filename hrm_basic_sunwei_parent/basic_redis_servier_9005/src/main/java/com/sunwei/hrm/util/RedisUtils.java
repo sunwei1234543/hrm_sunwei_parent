@@ -101,12 +101,15 @@ public enum RedisUtils {
      * @param key
      */
     public String get(String key) {
+
         Jedis jedis = getSource();
         try {
             return jedis.get(key);
         } catch (Exception e) {
+
             e.printStackTrace();
         } finally {
+
             closeSource(jedis);
         }
 

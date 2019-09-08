@@ -1,8 +1,7 @@
 package com.sunwei.hrm.service.impl;
 
-
-import com.sunwei.hrm.client.doc.EsCourse;
-import com.sunwei.hrm.client.query.EsCourseQuery;
+import com.sunwei.hrm.doc.EsCourse;
+import com.sunwei.hrm.query.EsCourseQuery;
 import com.sunwei.hrm.repository.CourseRepository;
 import com.sunwei.hrm.service.IEsCourseService;
 import com.sunwei.hrm.util.PageList;

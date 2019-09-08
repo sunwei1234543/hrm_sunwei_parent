@@ -117,7 +117,7 @@ public class CourseTypeServiceImpl extends ServiceImpl<CourseTypeMapper, CourseT
         }
         for (CourseType child : children) {
             //自己调用自己
-            List<CourseType> courseTypes = queryTypeTree(child.getId());
+            List<CourseType> courseTypes = getqueryTypeTree(child.getId());
             child.setChildren(courseTypes);
         }
         return children;

@@ -1,8 +1,9 @@
 package com.sunwei.hrm.client;
 
 
-import com.sunwei.hrm.client.doc.EsCourse;
-import com.sunwei.hrm.client.query.EsCourseQuery;
+
+import com.sunwei.hrm.doc.EsCourse;
+import com.sunwei.hrm.query.EsCourseQuery;
 import com.sunwei.hrm.util.AjaxResult;
 import com.sunwei.hrm.util.PageList;
 import org.springframework.cloud.openfeign.FeignClient;

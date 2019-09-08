@@ -18,7 +18,7 @@ public class CourseTypeTest {
     private CourseTypeServiceImpl courseTypeService;
     @Test
     public void testQueryTreeData(){
-        List<CourseType> courseTypes = courseTypeService.queryTypeTree(null);
+        List<CourseType> courseTypes = courseTypeService.queryTypeTree(0L);
         for (CourseType courseType : courseTypes) {
             System.out.println(courseType);
             List<CourseType> children = courseType.getChildren();
