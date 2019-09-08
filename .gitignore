@@ -1,0 +1,15 @@
+/hrm_mybatiseplus_sunwei_gen/target
+/hrm_course_sunwei_parent/hrm_course_service_9002/target
+/hrm_management_sunwei_parent/hrm_management_client/target
+/hrm_management_sunwei_parent/hrm_management_common/target
+/hrm_course_sunwei_parent/hrm_course_common/target
+/hrm_basic_sunwei_parent/hrm_basic_es_service_9004/target
+/hrm_basic_sunwei_parent/hrm_basic_fastdfs_service_9003/target
+/hrm_basic_sunwei_parent/hrm_basic_sunwei_util/target
+/hrm_basic_sunwei_parent/basic_redis_client/target
+/hrm_basic_sunwei_parent/basic_redis_servier_9005/target
+/hrm_basic_sunwei_parent/hrm_basic_es_client/target
+/hrm_basic_sunwei_parent/hrm_basic_es_common/target
+/hrm_supoort_sunwei_parent/hrm_eureka_sunwei_7001/target
+/hrm_supoort_sunwei_parent/hrm_zuul_sunwei_9527/target
+/hrm_management_sunwei_parent/hrm_management_service_9001/target
