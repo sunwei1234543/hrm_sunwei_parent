@@ -14,6 +14,8 @@
         <module>hrm_course_sunwei_parent</module>
         <module>hrm_mybatiseplus_sunwei_gen</module>
         <module>hrm_supoort_sunwei_parent</module>
+        <module>hrm_page_parent</module>
+        <module>hrm_page_agent_parent</module>
     </modules>
 
     <properties>

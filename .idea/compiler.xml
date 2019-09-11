@@ -25,6 +25,13 @@
         <module name="hrm_management_common" />
         <module name="hrm_management_service_9001" />
         <module name="hrm_mybatiseplus_sunwei_gen" />
+        <module name="hrm_page_agent_client" />
+        <module name="hrm_page_agent_common" />
+        <module name="hrm_page_agent_parent" />
+        <module name="hrm_page_agent_service_9007" />
+        <module name="hrm_page_client" />
+        <module name="hrm_page_common" />
+        <module name="hrm_page_service_9006" />
         <module name="hrm_zuul_sunwei_9527" />
       </profile>
     </annotationProcessing>

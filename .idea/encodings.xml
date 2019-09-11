@@ -22,6 +22,14 @@
     <file url="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrm_management_sunwei_parent/hrm_management_service_9001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrm_mybatiseplus_sunwei_gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_agent_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_agent_parent/hrm_page_agent_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_agent_parent/hrm_page_agent_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_agent_parent/hrm_page_agent_service_9007" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_parent/hrm_page_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_parent/hrm_page_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrm_page_parent/hrm_page_service_9006" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_config_service_sunwei_8848" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrm_supoort_sunwei_parent/hrm_eureka_sunwei_7001" charset="UTF-8" />
